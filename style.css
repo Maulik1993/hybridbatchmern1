@@ -1,0 +1,136 @@
+@CHARSET "ISO-8859-1";
+
+.username{
+	color: #DFE832;
+	font-size:14px;
+	float:right;
+
+
+}
+
+.inhero{
+float: left;
+
+
+}
+#header {
+	overflow-y:hidden;
+	background-color: #4C4C4C;
+	color: white;
+	text-align:center;
+	padding: 15px;
+	font-size: 25px;
+	height: 40px;
+	margin: -10px -10px;
+	border: 2px solid #33b5e5;
+
+}
+
+#header img {
+	width: 150px;
+	height: 60px;
+	margin-top: -10px;
+}
+
+.banner {
+    background: url(online.gif) no-repeat;
+		width:  1300px;
+		height: 600px;
+
+}
+
+banner{
+background: url(online.gif) no-repeat;
+width:  800px;
+height: 600px;
+}
+
+figcaption{
+font-family: Comic Sans MS;
+
+}
+
+figcaption:hover{
+text-decoration: underline;
+font-size: 20px;
+}
+.callout{
+	background: black;
+	height:200px;
+
+}
+.topic{
+	font-size: 30px;
+	position:absolute;
+	margin-left: 300px;
+	margin-top: 5px;
+}
+
+.aboutimage{
+
+	background: url(blur.jpg) no-repeat;
+	/*filter: brightness(50%);*/
+	width:  100%;
+	height: 600px;
+}
+
+#footer {
+	background-color: #4C4C4C;
+	color: white;
+	clear: both;
+	text-align: center;
+	size: 15px;
+	padding: 5px;
+	margin: -10px -10px;
+	border: 2px solid #33b5e5;
+
+}
+
+#headerLink {
+	width: auto;
+	height: 5px;
+	margin-left: -500px;
+}
+
+#headerLink p {
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+	float: left;
+	width: 100%;
+	text-align: right;
+	margin-top: 18px;
+	margin-left: -100px;
+}
+
+#headerLink a {
+
+	display: inline-block;
+	background: #333;
+	color: white;
+	padding: 5px 15px;
+	border: 1px solid #33b5e5;
+	text-decoration: none;
+	float: right;
+	text-align: right;
+	margin-top: -10px;
+	margin-right: 0px;
+	position: relative;
+}
+
+#headerLink a:HOVER {
+	color: black;
+	background: white;
+}
+
+/*  left nav      */
+
+
+#content{
+
+	height:600px;
+}
+
+.main{
+	height:500px;
+}

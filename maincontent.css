@@ -1,0 +1,73 @@
+@CHARSET "ISO-8859-1";
+
+body {
+  background: #ffffff;
+  color: #666666;
+  font-family: 'RobotoDraft', 'Roboto', sans-serif;
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+
+/* username*/
+.username{
+	color: #DFE832;
+	font-size:14px;
+	float:right;
+	margin-top: -125px;
+	margin-right: 10px;
+	/* height: 600px; */
+	
+}
+
+
+.spaceforcontent{
+	float:right;
+	height: 550px;
+}
+
+/* main content*/
+.mainContent{
+	margin-top: 10px;
+	float:left;
+	height:auto;
+	
+	
+}
+
+/* error content*/
+.error{
+	color: red;
+}
+
+/* linkcss for list*/
+.link a {
+	display: inline-block;
+	background: #178ab4;
+	color: white;
+	padding: 5px 10px;
+	border: 1px solid white;
+	text-decoration: none;
+	float:right;
+	text-align: right;
+	
+	
+}
+
+.link a:HOVER {
+	color: black;
+	background: white;
+}
+
+
+.img{
+	margin-top: 50px;
+	margin-left: 10px;
+	padding: 10 10px;
+}
+.img img{
+	width: 250px; 
+	height: 250px;
+}
