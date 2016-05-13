@@ -33,14 +33,14 @@ float: left;
 }
 
 .banner {
-    background: url(online.gif) no-repeat;
+    background: url(online1.jpg) no-repeat;
 		width:  1300px;
 		height: 600px;
 
 }
 
 banner{
-background: url(online.gif) no-repeat;
+background: url(online1.jpg) no-repeat;
 width:  800px;
 height: 600px;
 }
@@ -66,14 +66,20 @@ font-size: 20px;
 	margin-top: 5px;
 }
 
-.aboutimage{
+.aboutImage{
 
-	background: url(blur.jpg) no-repeat;
+	background: url(about.jpg) no-repeat;
 	/*filter: brightness(50%);*/
 	width:  100%;
 	height: 600px;
 }
 
+.ccImage{
+	background: url(customer-care.png) no-repeat;
+	width:  100%;
+	height: 600px;
+
+}
 #footer {
 	background-color: #4C4C4C;
 	color: white;
@@ -132,5 +138,8 @@ font-size: 20px;
 }
 
 .main{
-	height:500px;
+	margin-left: 7%;
+	background: url(customer-care.png) no-repeat;
+	width:  100%;
+	height: 600px;
 }
